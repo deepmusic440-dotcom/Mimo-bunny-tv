@@ -8,6 +8,6 @@ They live here so scheduling tools (Buffer) can download them from a permanent p
 - `videos/`: full-length videos (1920×1080)
 
 Direct download link for any file:
-`https://raw.githubusercontent.com/deepmusic440-dotcom/mimo-bunny-tv/main/<folder>/<file>`
+`https://raw.githubusercontent.com/deepmusic440-dotcom/Mimo-bunny-tv/main/<folder>/<file>`
 
 All animation, voices, music and sound effects were made for this channel.
