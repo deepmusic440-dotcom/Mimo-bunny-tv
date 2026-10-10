@@ -1,0 +1,355 @@
+1
+00:00:01,199 --> 00:00:04,224
+Counting 1 to 10 with Mimo!
+
+2
+00:00:05,846 --> 00:00:11,673
+Mimo: Hi friends! It's me, Mimo! Today we're going to count all the way to ten!
+
+3
+00:00:13,273 --> 00:00:19,496
+Mimo: Can you count with me? Hold up your fingers! Let's start in my garden.
+
+4
+00:00:19,796 --> 00:00:24,659
+Mimo: Look! My carrots are ready! Let's count them as I pick them.
+
+5
+00:00:25,759 --> 00:00:26,646
+Mimo: One!
+
+6
+00:00:28,246 --> 00:00:29,013
+Mimo: Two!
+
+7
+00:00:30,613 --> 00:00:31,475
+Mimo: Three!
+
+8
+00:00:33,075 --> 00:00:33,929
+Mimo: Four!
+
+9
+00:00:35,529 --> 00:00:36,471
+Mimo: Five!
+
+10
+00:00:38,571 --> 00:00:41,938
+Mimo: Five carrots! Great counting, friends!
+
+11
+00:00:43,760 --> 00:00:45,667
+Bruno: Ooh! Carrots! They look so crunchy!
+
+12
+00:00:45,967 --> 00:00:49,699
+Mimo: Bruno, we're counting them. Please don't eat them!
+
+13
+00:00:49,999 --> 00:00:52,347
+Bruno: Okay, okay. I'll just... look at them.
+
+14
+00:00:52,647 --> 00:00:55,887
+Mimo: Now let's count my flowers over here...
+
+15
+00:01:02,151 --> 00:01:07,656
+Mimo: Hey! Wait a minute! How many carrots are there now? Let's count again!
+
+16
+00:01:07,956 --> 00:01:08,843
+Mimo: One!
+
+17
+00:01:09,443 --> 00:01:10,211
+Mimo: Two!
+
+18
+00:01:10,811 --> 00:01:11,672
+Mimo: Three!
+
+19
+00:01:12,272 --> 00:01:13,127
+Mimo: Four!
+
+20
+00:01:13,727 --> 00:01:17,153
+Mimo: Four?! There were five carrots! Bruno!
+
+21
+00:01:17,453 --> 00:01:20,938
+Bruno: Hee hee. Five minus one is four! I was helping you learn!
+
+22
+00:01:23,238 --> 00:01:27,088
+Mimo: Silly Bruno! Okay, let's go to the park!
+
+23
+00:01:29,588 --> 00:01:33,252
+Pip: Look, everybody! It's a balloon party! Let's count the balloons!
+
+24
+00:01:33,552 --> 00:01:34,425
+Pip: One!
+
+25
+00:01:35,225 --> 00:01:36,316
+Lulu: Two!
+
+26
+00:01:37,116 --> 00:01:37,827
+Pip: Three!
+
+27
+00:01:38,627 --> 00:01:39,385
+Lulu: Four!
+
+28
+00:01:40,185 --> 00:01:40,884
+Pip: Five!
+
+29
+00:01:41,684 --> 00:01:42,576
+Lulu: Six!
+
+30
+00:01:43,376 --> 00:01:44,212
+Pip: Seven!
+
+31
+00:01:46,312 --> 00:01:52,537
+Lulu: Seven balloons! Red, orange, yellow, green, blue, purple and pink!
+
+32
+00:01:52,837 --> 00:01:55,823
+Pip: I love balloons! I'm going to hold ALL of them!
+
+33
+00:02:00,838 --> 00:02:03,344
+Pip: Whoa! Whoa! The balloons are lifting me up!
+
+34
+00:02:03,644 --> 00:02:06,414
+Lulu: Hold on, Pip! I'll save you!
+
+35
+00:02:09,389 --> 00:02:13,478
+Pip: Phew. Thanks, Lulu. Are all the balloons still here? Let's count!
+
+36
+00:02:13,778 --> 00:02:14,470
+Lulu: One!
+
+37
+00:02:15,070 --> 00:02:16,161
+Lulu: Two!
+
+38
+00:02:16,761 --> 00:02:17,645
+Lulu: Three!
+
+39
+00:02:18,245 --> 00:02:19,004
+Lulu: Four!
+
+40
+00:02:19,604 --> 00:02:20,415
+Lulu: Five!
+
+41
+00:02:21,015 --> 00:02:21,907
+Lulu: Six!
+
+42
+00:02:22,507 --> 00:02:23,362
+Lulu: Seven!
+
+43
+00:02:23,962 --> 00:02:26,530
+Lulu: Seven! All the balloons are safe!
+
+44
+00:02:26,830 --> 00:02:29,039
+Pip: Maybe I'll just hold one next time.
+
+45
+00:02:33,539 --> 00:02:38,357
+Mimo: Look up at the sky, everybody. The stars are coming out!
+
+46
+00:02:38,657 --> 00:02:41,778
+Lulu: Let's count the stars! All the way to ten!
+
+47
+00:02:42,078 --> 00:02:42,965
+Mimo: One!
+
+48
+00:02:43,765 --> 00:02:44,464
+Pip: Two!
+
+49
+00:02:45,264 --> 00:02:46,149
+Lulu: Three!
+
+50
+00:02:46,949 --> 00:02:47,350
+Bruno: Four!
+
+51
+00:02:48,150 --> 00:02:49,092
+Mimo: Five!
+
+52
+00:02:49,892 --> 00:02:50,992
+Pip: Six!
+
+53
+00:02:51,792 --> 00:02:52,647
+Lulu: Seven!
+
+54
+00:02:53,447 --> 00:02:53,756
+Bruno: Eight!
+
+55
+00:02:54,556 --> 00:02:55,559
+Mimo: Nine!
+
+56
+00:02:56,359 --> 00:02:57,031
+Pip: Ten!
+
+57
+00:02:59,131 --> 00:03:02,739
+Mimo: Ten stars! We counted all the way to ten!
+
+58
+00:03:03,039 --> 00:03:08,442
+Mimo: Now let's count them again, all together, nice and slow. Ready?
+
+59
+00:03:08,742 --> 00:03:09,628
+Mimo: One!
+
+60
+00:03:10,228 --> 00:03:10,996
+Mimo: Two!
+
+61
+00:03:11,596 --> 00:03:12,457
+Mimo: Three!
+
+62
+00:03:13,057 --> 00:03:13,912
+Mimo: Four!
+
+63
+00:03:14,512 --> 00:03:15,454
+Mimo: Five!
+
+64
+00:03:16,054 --> 00:03:17,019
+Mimo: Six!
+
+65
+00:03:17,619 --> 00:03:18,610
+Mimo: Seven!
+
+66
+00:03:19,210 --> 00:03:20,055
+Mimo: Eight!
+
+67
+00:03:20,655 --> 00:03:21,657
+Mimo: Nine!
+
+68
+00:03:22,257 --> 00:03:23,069
+Mimo: Ten!
+
+69
+00:03:23,669 --> 00:03:26,283
+Mimo: Ten! Great job, friends!
+
+70
+00:03:28,383 --> 00:03:31,544
+Bruno: All this counting makes me sleepy... One sheep, two sheep...
+
+71
+00:03:33,444 --> 00:03:36,360
+Pip: Wake up, Bruno! We have one more counting game!
+
+72
+00:03:39,860 --> 00:03:46,036
+Mimo: We can count backwards too! From ten all the way down to one. Then... BLAST OFF!
+
+73
+00:03:46,336 --> 00:03:48,011
+Pip: Everybody into the rocket!
+
+74
+00:03:54,441 --> 00:03:56,526
+Mimo: Count with us! Ready?
+
+75
+00:03:56,826 --> 00:03:57,637
+Mimo: Ten!
+
+76
+00:03:58,237 --> 00:03:59,030
+Pip: Nine!
+
+77
+00:03:59,630 --> 00:04:00,379
+Lulu: Eight!
+
+78
+00:04:00,979 --> 00:04:01,660
+Bruno: Seven!
+
+79
+00:04:02,260 --> 00:04:03,226
+Mimo: Six!
+
+80
+00:04:03,826 --> 00:04:04,525
+Pip: Five!
+
+81
+00:04:05,125 --> 00:04:05,884
+Lulu: Four!
+
+82
+00:04:06,484 --> 00:04:07,252
+Bruno: Three!
+
+83
+00:04:07,852 --> 00:04:08,620
+Mimo: Two!
+
+84
+00:04:09,220 --> 00:04:10,093
+Pip: One!
+
+85
+00:04:10,693 --> 00:04:12,065
+Mimo: BLAST OFF!
+
+86
+00:04:17,965 --> 00:04:24,873
+Mimo: Wheee! What a trip! Great counting, friends! You can count to ten AND back down again!
+
+87
+00:04:26,473 --> 00:04:29,200
+Lulu: Next time, let's learn our shapes!
+
+88
+00:04:29,500 --> 00:04:32,615
+Bruno: Can we count cookies next time? Mmm, cookies.
+
+89
+00:04:34,915 --> 00:04:36,804
+Mimo: Bye bye, friends!

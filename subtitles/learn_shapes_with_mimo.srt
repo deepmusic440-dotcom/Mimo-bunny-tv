@@ -1,0 +1,223 @@
+1
+00:00:01,199 --> 00:00:04,200
+Learn Shapes with Mimo!
+
+2
+00:00:07,107 --> 00:00:12,142
+Mimo: Hi friends! It's me, Mimo! Today we're going on a shape hunt!
+
+3
+00:00:13,742 --> 00:00:18,693
+Mimo: Shapes are everywhere! Let's find them together. Are you ready?
+
+4
+00:00:20,428 --> 00:00:22,323
+Bruno: A shape hunt? Are shapes yummy?
+
+5
+00:00:24,623 --> 00:00:29,402
+Mimo: Shapes aren't food, Bruno! You'll see. Let's start!
+
+6
+00:00:30,052 --> 00:00:35,248
+Mimo: First shape! It's round, round, round, with no corners at all.
+
+7
+00:00:37,148 --> 00:00:38,177
+Mimo: A circle!
+
+8
+00:00:38,477 --> 00:00:39,980
+Mimo: Can you say circle?
+
+9
+00:00:43,380 --> 00:00:50,380
+Mimo: Great job! Can you find a circle? Look! The sun is a circle! And a ball is a circle too!
+
+10
+00:00:50,680 --> 00:00:53,318
+Bruno: And a cookie is a circle! A yummy circle!
+
+11
+00:00:57,218 --> 00:01:00,776
+Mimo: Silly Bruno! Yes, a cookie is a circle.
+
+12
+00:01:01,076 --> 00:01:06,149
+Mimo: Next shape! It has four sides, and they're all the same size.
+
+13
+00:01:08,049 --> 00:01:09,108
+Mimo: A square!
+
+14
+00:01:09,408 --> 00:01:10,939
+Mimo: Can you say square?
+
+15
+00:01:14,339 --> 00:01:17,240
+Mimo: Look! This present box is a square!
+
+16
+00:01:17,540 --> 00:01:20,329
+Bruno: And a sandwich is a square! A yummy square!
+
+17
+00:01:22,229 --> 00:01:25,127
+Mimo: Bruno! Is everything food to you?
+
+18
+00:01:25,427 --> 00:01:26,950
+Bruno: Mostly, yes.
+
+19
+00:01:28,572 --> 00:01:31,354
+Pip: Hi everybody! Can I hunt for shapes too?
+
+20
+00:01:31,654 --> 00:01:36,656
+Mimo: Yes, Pip! This shape has three sides and three pointy corners.
+
+21
+00:01:38,556 --> 00:01:39,697
+Pip: A triangle!
+
+22
+00:01:39,997 --> 00:01:41,604
+Mimo: Can you say triangle?
+
+23
+00:01:45,004 --> 00:01:49,920
+Pip: A tent is a triangle! When we went camping, our tent was a triangle!
+
+24
+00:01:50,220 --> 00:01:53,891
+Bruno: And a slice of pizza is a triangle! A yummy triangle!
+
+25
+00:01:59,052 --> 00:02:02,681
+Lulu: Hello! Did somebody say shapes? I love shapes!
+
+26
+00:02:02,981 --> 00:02:08,269
+Mimo: Lulu! This shape is like a square, but it's long and stretched out.
+
+27
+00:02:10,169 --> 00:02:11,286
+Lulu: A rectangle!
+
+28
+00:02:11,586 --> 00:02:13,368
+Mimo: Can you say rectangle?
+
+29
+00:02:16,768 --> 00:02:20,841
+Lulu: My book is a rectangle! And a door is a rectangle too.
+
+30
+00:02:21,141 --> 00:02:23,372
+Bruno: And a chocolate bar is a rectangle!
+
+31
+00:02:23,672 --> 00:02:26,961
+Lulu: Bruno! Not everything is a snack!
+
+32
+00:02:28,361 --> 00:02:29,222
+Bruno: Are you sure?
+
+33
+00:02:29,522 --> 00:02:33,437
+Mimo: This next shape is shiny and has five pointy points!
+
+34
+00:02:35,337 --> 00:02:37,534
+Pip: A star! A twinkly star!
+
+35
+00:02:37,834 --> 00:02:39,365
+Mimo: Can you say star?
+
+36
+00:02:43,465 --> 00:02:46,806
+Pip: Stars twinkle in the sky at night! Twinkle, twinkle!
+
+37
+00:02:47,106 --> 00:02:51,490
+Mimo: And the last shape is my favorite. It's the shape of love!
+
+38
+00:02:53,390 --> 00:02:54,327
+Mimo: A heart!
+
+39
+00:02:54,627 --> 00:02:56,057
+Mimo: Can you say heart?
+
+40
+00:03:01,157 --> 00:03:04,198
+Mimo: A heart, because I love all my friends!
+
+41
+00:03:04,498 --> 00:03:08,569
+Mimo: Now let's use our shapes to build something! Watch!
+
+42
+00:03:12,369 --> 00:03:15,960
+Mimo: A house! Can you find the shapes in my house?
+
+43
+00:03:16,260 --> 00:03:17,856
+Mimo: The roof is a...
+
+44
+00:03:19,656 --> 00:03:20,522
+Pip: Triangle!
+
+45
+00:03:20,822 --> 00:03:22,405
+Mimo: The walls are a...
+
+46
+00:03:24,205 --> 00:03:25,063
+Lulu: Square!
+
+47
+00:03:25,363 --> 00:03:26,882
+Mimo: The door is a...
+
+48
+00:03:28,682 --> 00:03:29,915
+Lulu: Rectangle!
+
+49
+00:03:30,215 --> 00:03:31,724
+Mimo: The window is a...
+
+50
+00:03:33,524 --> 00:03:35,079
+Bruno: Circle! Like a cookie!
+
+51
+00:03:35,379 --> 00:03:37,854
+Mimo: And up in the sky, there's a...
+
+52
+00:03:39,654 --> 00:03:40,621
+Pip: Star!
+
+53
+00:03:40,921 --> 00:03:45,506
+Mimo: Wow! You found all the shapes! Great job, friends!
+
+54
+00:03:47,106 --> 00:03:53,169
+Bruno: All this shape hunting made me hungry. Can we have a circle cookie, a square sandwich, and a triangle pizza?
+
+55
+00:03:55,469 --> 00:03:59,393
+Mimo: Okay, Bruno! A shape snack for everybody!
+
+56
+00:03:59,693 --> 00:04:05,037
+Mimo: Next time, let's learn the animal sounds! Bye bye, friends!

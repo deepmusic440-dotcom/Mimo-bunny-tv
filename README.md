@@ -6,6 +6,7 @@ They live here so scheduling tools (Buffer) can download them from a permanent p
 - `shorts/`: vertical YouTube Shorts (1080×1920, under 60 seconds)
 - `covers/`: Shorts cover images (1080×1920)
 - `videos/`: full-length videos (1920×1080)
+- `subtitles/`: English subtitle files (.srt) for the full-length videos
 
 Direct download link for any file:
 `https://raw.githubusercontent.com/deepmusic440-dotcom/Mimo-bunny-tv/main/<folder>/<file>`
