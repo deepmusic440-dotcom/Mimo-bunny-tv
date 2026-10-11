@@ -1,0 +1,247 @@
+1
+00:00:01,199 --> 00:00:04,200
+Animal Sounds with Mimo!
+
+2
+00:00:07,107 --> 00:00:13,759
+Mimo: Hi friends! It's me, Mimo! Today we're visiting the farm to learn animal sounds!
+
+3
+00:00:15,359 --> 00:00:20,895
+Mimo: Every animal makes its own special sound. Are you ready to make them with me?
+
+4
+00:00:22,630 --> 00:00:26,789
+Bruno: Animal sounds? I know all of them! I'm a bear. Bears go... ROAR!
+
+5
+00:00:29,089 --> 00:00:34,055
+Mimo: Great roar, Bruno! Let's see if you know the farm animals.
+
+6
+00:00:36,105 --> 00:00:39,116
+Mimo: This is a cow! What does the cow say?
+
+7
+00:00:41,216 --> 00:00:42,880
+Mimo: Moo! Moooo!
+
+8
+00:00:43,180 --> 00:00:44,557
+Mimo: Can you say moo?
+
+9
+00:00:46,457 --> 00:00:48,166
+Bruno: Moo! Hey, that's easy!
+
+10
+00:00:49,866 --> 00:00:52,942
+Mimo: This is a pig! What does the pig say?
+
+11
+00:00:54,642 --> 00:00:56,104
+Bruno: Um... the pig says... yum yum?
+
+12
+00:00:56,404 --> 00:01:00,033
+Mimo: No, Bruno! The pig says oink, oink!
+
+13
+00:01:00,333 --> 00:01:02,217
+Mimo: Can you say oink oink?
+
+14
+00:01:05,617 --> 00:01:08,244
+Bruno: Oink oink! That's what I say when I see pancakes.
+
+15
+00:01:09,865 --> 00:01:13,960
+Pip: Hi everybody! Can I help? I'm a bird, so I know the bird sounds!
+
+16
+00:01:15,660 --> 00:01:18,807
+Mimo: This is a duck! What does the duck say?
+
+17
+00:01:20,507 --> 00:01:22,193
+Pip: Quack, quack, quack!
+
+18
+00:01:23,893 --> 00:01:25,395
+Mimo: Can you say quack?
+
+19
+00:01:28,695 --> 00:01:32,804
+Mimo: This fluffy friend is a sheep! What does the sheep say?
+
+20
+00:01:34,504 --> 00:01:35,633
+Pip: Baa! Baa!
+
+21
+00:01:35,933 --> 00:01:38,698
+Bruno: The sheep looks like a big cloud with legs!
+
+22
+00:01:40,998 --> 00:01:42,447
+Mimo: Can you say baa?
+
+23
+00:01:45,747 --> 00:01:48,768
+Mimo: This is a dog! What does the dog say?
+
+24
+00:01:50,468 --> 00:01:51,945
+Bruno: Woof! Woof! Bark bark!
+
+25
+00:01:52,945 --> 00:01:54,921
+Mimo: Can you say woof woof?
+
+26
+00:01:57,995 --> 00:02:00,238
+Lulu: Hello! Did somebody call for a cat?
+
+27
+00:02:00,538 --> 00:02:03,217
+Mimo: Lulu! What does the cat say?
+
+28
+00:02:04,917 --> 00:02:07,039
+Lulu: Meow! Meow! Purrr.
+
+29
+00:02:08,839 --> 00:02:10,369
+Mimo: Can you say meow?
+
+30
+00:02:13,669 --> 00:02:17,038
+Mimo: This is a chicken! What does the chicken say?
+
+31
+00:02:18,738 --> 00:02:20,888
+Pip: Cluck cluck cluck! She's my cousin!
+
+32
+00:02:23,188 --> 00:02:25,073
+Mimo: Can you say cluck cluck?
+
+33
+00:02:28,373 --> 00:02:31,597
+Mimo: This is a frog! What does the frog say?
+
+34
+00:02:33,297 --> 00:02:34,731
+Lulu: Ribbit! Ribbit!
+
+35
+00:02:36,024 --> 00:02:38,172
+Pip: Ribbit! I'm a hopping frog!
+
+36
+00:02:38,472 --> 00:02:40,028
+Mimo: Can you say ribbit?
+
+37
+00:02:43,328 --> 00:02:48,620
+Mimo: And this is the king of the jungle. A lion! What does the lion say?
+
+38
+00:02:51,320 --> 00:02:51,948
+Bruno: ROOOOAR!
+
+39
+00:02:53,848 --> 00:02:55,399
+Pip: Eek! A lion!
+
+40
+00:02:55,699 --> 00:02:58,653
+Bruno: It's just me! It's Bruno! I'm a very good lion.
+
+41
+00:03:00,953 --> 00:03:03,623
+Mimo: Can you roar like a lion? Roar!
+
+42
+00:03:07,392 --> 00:03:09,577
+Hoot: Hoo! Hoo! Did somebody forget the owl?
+
+43
+00:03:10,777 --> 00:03:13,906
+Mimo: Grandpa Hoot! What does the owl say?
+
+44
+00:03:15,606 --> 00:03:17,606
+Hoot: Hoo, hoo! The owl says hoo hoo!
+
+45
+00:03:17,906 --> 00:03:19,462
+Mimo: Can you say hoo hoo?
+
+46
+00:03:21,362 --> 00:03:25,845
+Mimo: Now let's have an animal sound parade! Say them with us!
+
+47
+00:03:26,145 --> 00:03:27,468
+Mimo: The cow says...
+
+48
+00:03:28,968 --> 00:03:29,377
+Bruno: Moo!
+
+49
+00:03:29,677 --> 00:03:31,002
+Mimo: The pig says...
+
+50
+00:03:32,502 --> 00:03:33,315
+Bruno: Oink oink!
+
+51
+00:03:33,615 --> 00:03:34,854
+Mimo: The duck says...
+
+52
+00:03:36,354 --> 00:03:37,517
+Pip: Quack quack!
+
+53
+00:03:37,817 --> 00:03:39,191
+Mimo: The sheep says...
+
+54
+00:03:40,691 --> 00:03:41,358
+Lulu: Baa!
+
+55
+00:03:41,658 --> 00:03:43,090
+Mimo: The dog says...
+
+56
+00:03:44,590 --> 00:03:45,800
+Bruno: Woof woof!
+
+57
+00:03:46,100 --> 00:03:47,771
+Mimo: And the lion says...
+
+58
+00:03:49,271 --> 00:03:49,738
+Bruno: ROAR!
+
+59
+00:03:50,038 --> 00:03:54,276
+Mimo: Great job, friends! You know all the animal sounds!
+
+60
+00:03:55,876 --> 00:03:58,085
+Bruno: Mimo, what sound does a bunny make?
+
+61
+00:04:00,385 --> 00:04:05,637
+Mimo: Hmm. Bunnies are very quiet. We just go... munch, munch, munch!
+
+62
+00:04:09,537 --> 00:04:14,403
+Mimo: Next time, let's learn opposites! Bye bye, friends!

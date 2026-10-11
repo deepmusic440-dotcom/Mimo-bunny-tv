@@ -1,0 +1,139 @@
+1
+00:00:01,199 --> 00:00:04,352
+What's the Weather? Weather with Mimo!
+
+2
+00:00:04,652 --> 00:00:09,642
+Mimo: Hi friends! Let's look outside. What's the weather like today?
+
+3
+00:00:09,942 --> 00:00:13,331
+Pip: Let's be weather reporters! Every day the weather can be different!
+
+4
+00:00:13,631 --> 00:00:17,404
+Mimo: Today it's sunny! The sun is bright and warm.
+
+5
+00:00:17,704 --> 00:00:19,220
+Mimo: Can you say sunny?
+
+6
+00:00:23,120 --> 00:00:26,316
+Pip: Sunny days are for playing outside! And wearing a hat!
+
+7
+00:00:26,616 --> 00:00:31,678
+Mimo: Uh oh. Now big clouds are covering the sun. It's cloudy!
+
+8
+00:00:31,978 --> 00:00:33,502
+Mimo: Can you say cloudy?
+
+9
+00:00:36,837 --> 00:00:40,048
+Lulu: When it's cloudy, it might start to rain soon.
+
+10
+00:00:40,348 --> 00:00:43,261
+Mimo: Oh! Drip, drop! It's rainy!
+
+11
+00:00:43,561 --> 00:00:47,765
+Mimo: When it's rainy, we use an umbrella and wear rain boots!
+
+12
+00:00:48,065 --> 00:00:49,590
+Mimo: Can you say rainy?
+
+13
+00:00:52,115 --> 00:00:54,463
+Bruno: Puddles! I love jumping in puddles!
+
+14
+00:00:57,158 --> 00:00:59,558
+Mimo: Bruno! You splashed us!
+
+15
+00:00:59,858 --> 00:01:02,112
+Bruno: Oops! Big bear, big splash!
+
+16
+00:01:02,412 --> 00:01:07,129
+Mimo: Whoosh! Now it's windy! The wind is blowing everything around!
+
+17
+00:01:07,429 --> 00:01:08,947
+Mimo: Can you say windy?
+
+18
+00:01:10,647 --> 00:01:13,501
+Pip: Wheee! The wind is taking my kite up high!
+
+19
+00:01:15,801 --> 00:01:18,401
+Pip: Whoa! The wind is taking ME up high!
+
+20
+00:01:24,401 --> 00:01:26,865
+Pip: Wheee! The wind is very strong today!
+
+21
+00:01:29,365 --> 00:01:33,712
+Mimo: Look! It's snowy! Little white snowflakes are falling!
+
+22
+00:01:34,012 --> 00:01:35,698
+Mimo: Can you say snowy?
+
+23
+00:01:39,198 --> 00:01:43,705
+Bruno: Brrr! When it's snowy, we wear warm coats, hats and mittens!
+
+24
+00:01:44,005 --> 00:01:45,448
+Lulu: And build snowmen!
+
+25
+00:01:45,748 --> 00:01:50,375
+Mimo: And sometimes, after the rain and the sun, we see a rainbow!
+
+26
+00:01:50,675 --> 00:01:52,729
+Pip: Rainbows are my favorite weather!
+
+27
+00:01:53,029 --> 00:01:56,091
+Mimo: Let's say all the weather together! Ready?
+
+28
+00:01:56,391 --> 00:01:57,174
+Pip: Sunny!
+
+29
+00:01:58,074 --> 00:01:58,889
+Lulu: Cloudy!
+
+30
+00:01:59,789 --> 00:02:00,325
+Bruno: Rainy!
+
+31
+00:02:01,225 --> 00:02:02,017
+Pip: Windy!
+
+32
+00:02:02,917 --> 00:02:03,939
+Mimo: Snowy!
+
+33
+00:02:04,239 --> 00:02:06,715
+Mimo: Great job, weather reporters!
+
+34
+00:02:08,315 --> 00:02:10,756
+Bruno: What's the weather in my tummy? I think it's... rumbly!
+
+35
+00:02:13,056 --> 00:02:17,796
+Mimo: Bye bye, friends! See you next time on Mimo Bunny TV!
