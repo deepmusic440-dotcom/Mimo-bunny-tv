@@ -1,0 +1,143 @@
+1
+00:00:01,199 --> 00:00:04,200
+Days of the Week with Mimo!
+
+2
+00:00:04,500 --> 00:00:11,975
+Mimo: Hi friends! There are seven days in a week. Let's spend a whole week together and learn all the days!
+
+3
+00:00:12,275 --> 00:00:14,879
+Bruno: Seven days? That's a lot of snack times!
+
+4
+00:00:19,379 --> 00:00:22,076
+Mimo: On Monday, we paint pictures!
+
+5
+00:00:22,376 --> 00:00:25,655
+Lulu: I painted a house! Monday is a painting day!
+
+6
+00:00:25,955 --> 00:00:27,543
+Mimo: Can you say Monday?
+
+7
+00:00:31,643 --> 00:00:34,767
+Mimo: On Tuesday, we play at the playground!
+
+8
+00:00:36,338 --> 00:00:38,925
+Pip: Catch the ball! Tuesday is so much fun!
+
+9
+00:00:39,225 --> 00:00:40,795
+Mimo: Can you say Tuesday?
+
+10
+00:00:44,895 --> 00:00:47,631
+Mimo: On Wednesday, we go to the beach!
+
+11
+00:00:47,931 --> 00:00:51,405
+Bruno: Look at my sandcastle! It's the best sandcastle ever!
+
+12
+00:00:51,705 --> 00:00:54,169
+Bruno: Oh no! The wave took my sandcastle!
+
+13
+00:00:56,469 --> 00:00:58,069
+Mimo: Can you say Wednesday?
+
+14
+00:01:02,169 --> 00:01:04,880
+Mimo: On Thursday, we make pancakes!
+
+15
+00:01:05,180 --> 00:01:08,433
+Bruno: Thursday is my favorite day! Pancakes, pancakes!
+
+16
+00:01:10,333 --> 00:01:11,929
+Mimo: Can you say Thursday?
+
+17
+00:01:16,029 --> 00:01:18,655
+Mimo: On Friday, we have a dance party!
+
+18
+00:01:20,955 --> 00:01:23,461
+Lulu: Friday is the dancing day!
+
+19
+00:01:23,761 --> 00:01:25,276
+Mimo: Can you say Friday?
+
+20
+00:01:29,376 --> 00:01:33,008
+Mimo: On Saturday, we go camping under the stars!
+
+21
+00:01:33,308 --> 00:01:35,840
+Bruno: And we roast marshmallows by the campfire. Yum!
+
+22
+00:01:36,140 --> 00:01:37,769
+Mimo: Can you say Saturday?
+
+23
+00:01:41,869 --> 00:01:45,719
+Mimo: And on Sunday, we rest and read a book together.
+
+24
+00:01:47,819 --> 00:01:50,132
+Bruno: After a busy week, I'm sleepy.
+
+25
+00:01:50,432 --> 00:01:52,050
+Mimo: Can you say Sunday?
+
+26
+00:01:53,950 --> 00:01:57,680
+Mimo: Now let's say all seven days together! Ready?
+
+27
+00:01:57,980 --> 00:01:58,968
+Mimo: Monday!
+
+28
+00:01:59,568 --> 00:02:00,415
+Pip: Tuesday!
+
+29
+00:02:01,015 --> 00:02:01,969
+Bruno: Wednesday!
+
+30
+00:02:02,569 --> 00:02:03,859
+Lulu: Thursday!
+
+31
+00:02:04,459 --> 00:02:05,344
+Pip: Friday!
+
+32
+00:02:05,944 --> 00:02:06,716
+Bruno: Saturday!
+
+33
+00:02:07,316 --> 00:02:08,605
+Mimo: And Sunday!
+
+34
+00:02:10,205 --> 00:02:14,498
+Mimo: Great job, friends! Seven days make one whole week!
+
+35
+00:02:14,798 --> 00:02:17,819
+Bruno: And then it starts again! More pancakes on Thursday!
+
+36
+00:02:20,119 --> 00:02:23,498
+Mimo: Bye bye, friends! See you next week!

@@ -1,0 +1,143 @@
+1
+00:00:01,199 --> 00:00:04,613
+Vroom Vroom! Vehicles with Mimo!
+
+2
+00:00:04,913 --> 00:00:12,435
+Mimo: Hi friends! Today we're learning about things that go! Cars, buses, trains, planes and more!
+
+3
+00:00:12,735 --> 00:00:14,642
+Bruno: Things that go? Vroom vroom!
+
+4
+00:00:19,092 --> 00:00:23,865
+Mimo: This is a car! A car has four wheels, and it goes vroom vroom!
+
+5
+00:00:24,165 --> 00:00:26,246
+Mimo: And the horn goes beep beep!
+
+6
+00:00:26,546 --> 00:00:27,934
+Mimo: Can you say car?
+
+7
+00:00:29,834 --> 00:00:31,555
+Bruno: Beep beep! I'm a car!
+
+8
+00:00:33,955 --> 00:00:40,473
+Mimo: This is a bus! A bus is big and long. It can carry lots and lots of people!
+
+9
+00:00:40,773 --> 00:00:42,234
+Mimo: Can you say bus?
+
+10
+00:00:46,400 --> 00:00:48,887
+Pip: Wait for us! We want to ride the bus!
+
+11
+00:00:49,187 --> 00:00:51,582
+Lulu: Ding ding! All aboard!
+
+12
+00:00:53,282 --> 00:00:58,046
+Mimo: This is a train! A train goes on the tracks. Choo choo!
+
+13
+00:00:58,346 --> 00:00:59,810
+Mimo: Can you say train?
+
+14
+00:01:01,710 --> 00:01:03,977
+Bruno: Let's make a train! Everybody hold on!
+
+15
+00:01:06,277 --> 00:01:08,788
+Lulu: Choo choo! Chugga chugga choo choo!
+
+16
+00:01:10,488 --> 00:01:16,954
+Mimo: Look up high! This is an airplane! An airplane flies in the sky, way above the clouds!
+
+17
+00:01:20,454 --> 00:01:22,044
+Mimo: Can you say airplane?
+
+18
+00:01:25,944 --> 00:01:28,883
+Pip: Wheee! I can fly too! I'm a little airplane!
+
+19
+00:01:30,583 --> 00:01:35,893
+Mimo: This is a boat! A boat floats on the water. Splish, splash!
+
+20
+00:01:36,193 --> 00:01:37,705
+Mimo: Can you say boat?
+
+21
+00:01:39,605 --> 00:01:42,348
+Bruno: Boats are great! Except when I fall in the water.
+
+22
+00:01:42,648 --> 00:01:44,624
+Bruno: Brrr! Splash!
+
+23
+00:01:48,324 --> 00:01:55,589
+Mimo: Nee naw, nee naw! This is a fire truck! Fire trucks are big and red, and they help people!
+
+24
+00:01:55,889 --> 00:01:57,792
+Mimo: Can you say fire truck?
+
+25
+00:01:59,692 --> 00:02:03,540
+Lulu: Fire trucks have a long ladder and lots of water!
+
+26
+00:02:03,840 --> 00:02:07,071
+Bruno: Nee naw! Nee naw! Bruno the firefighter is here to help!
+
+27
+00:02:08,671 --> 00:02:11,807
+Mimo: Let's say all the vehicles together! Ready?
+
+28
+00:02:12,107 --> 00:02:13,383
+Bruno: Car! Beep beep!
+
+29
+00:02:14,183 --> 00:02:15,080
+Pip: Bus!
+
+30
+00:02:15,880 --> 00:02:17,395
+Lulu: Train! Choo choo!
+
+31
+00:02:18,195 --> 00:02:19,138
+Pip: Airplane!
+
+32
+00:02:19,938 --> 00:02:21,034
+Lulu: Boat!
+
+33
+00:02:21,834 --> 00:02:23,509
+Bruno: Fire truck! Nee naw!
+
+34
+00:02:25,109 --> 00:02:29,163
+Mimo: Great job, friends! Which vehicle is your favorite?
+
+35
+00:02:29,463 --> 00:02:30,906
+Bruno: An ice cream truck!
+
+36
+00:02:33,206 --> 00:02:36,661
+Mimo: Bye bye, friends! See you next time!
