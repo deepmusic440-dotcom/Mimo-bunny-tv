@@ -1,0 +1,87 @@
+1
+00:00:01,199 --> 00:00:04,200
+The Four Seasons with Mimo!
+
+2
+00:00:04,500 --> 00:00:12,165
+Mimo: Hi friends! There are four seasons in a year: spring, summer, fall and winter. Let's visit each one!
+
+3
+00:00:14,665 --> 00:00:20,016
+Mimo: In spring, flowers start to grow, and baby birds hatch from their eggs!
+
+4
+00:00:20,316 --> 00:00:23,757
+Lulu: Spring smells like flowers! Sniff, sniff!
+
+5
+00:00:24,057 --> 00:00:25,644
+Mimo: Can you say spring?
+
+6
+00:00:32,744 --> 00:00:38,144
+Mimo: In summer, the sun is hot and bright. We go to the beach and swim!
+
+7
+00:00:38,444 --> 00:00:40,618
+Bruno: And we eat ice cream to stay cool!
+
+8
+00:00:42,518 --> 00:00:43,940
+Mimo: Can you say summer?
+
+9
+00:00:48,040 --> 00:00:55,395
+Mimo: In fall, the leaves change color. Red, orange and yellow! Then they fall down from the trees.
+
+10
+00:00:55,695 --> 00:00:57,851
+Pip: Wheee! Look at all the leaves falling!
+
+11
+00:01:00,151 --> 00:01:01,601
+Mimo: Can you say fall?
+
+12
+00:01:05,701 --> 00:01:11,778
+Mimo: In winter, it's cold and snowy! We wear coats and mittens, and build snowmen!
+
+13
+00:01:13,678 --> 00:01:17,431
+Bruno: Brrr! Winter is cold! Can I have some hot cocoa?
+
+14
+00:01:17,731 --> 00:01:19,274
+Mimo: Can you say winter?
+
+15
+00:01:21,174 --> 00:01:24,621
+Mimo: Let's say the four seasons together! Ready?
+
+16
+00:01:24,921 --> 00:01:25,726
+Lulu: Spring!
+
+17
+00:01:26,526 --> 00:01:27,021
+Bruno: Summer!
+
+18
+00:01:27,821 --> 00:01:28,613
+Pip: Fall!
+
+19
+00:01:29,413 --> 00:01:30,293
+Mimo: Winter!
+
+20
+00:01:31,893 --> 00:01:36,246
+Mimo: And then it's spring again! Around and around the seasons go!
+
+21
+00:01:36,546 --> 00:01:38,627
+Bruno: Which season has the most snacks?
+
+22
+00:01:38,927 --> 00:01:42,612
+Mimo: All of them, Bruno! Bye bye, friends!
